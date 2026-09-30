@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.ipjahha.cn/sitemap.xml
